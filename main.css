@@ -6,13 +6,14 @@ html {
 
 body {
     font-family: Lantinghei SC, "微软雅黑", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px
+    font-size: 14px；
 }
 
 .nav a {
   position: relative;
   margin-right: 25px;
   color: #fff;
+  text-align: center;
 }
 
 .nav li {
