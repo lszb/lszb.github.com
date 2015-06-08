@@ -63,14 +63,28 @@ body {
   color: #00b0ff;
 }
 .neighborhood-guides {
-    background-color: #efefef
-    border-bottom: 1px solod#dbdbdb
+    background-color: #efefef;
+    border-bottom: 1px solod#dbdbdb; 
+    height: 200px 
 }
 .neighborhood-guides h2 {
-    color: #393c3d
-    font-size: 24px
+    color: #393c3d;
+    font-size: 24px;
 }
 .neighborhood-guides p {
-    font-size: 15px
-    margin-bottom: 13px
+    font-size: 15px;
+    margin-bottom: 13px;
+    height:200px;
+}
+
+.ft{
+  background-repeat: no-repeat;
+  background-size: cover;
+  list-style-type: onoe;
+  height: 100px;
+}
+
+.ft img {
+  margin-left: 100px;
+  margin-bottom: 50px;
 }
