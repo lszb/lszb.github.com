@@ -49,3 +49,20 @@
     font-size: 31px;
     margin-top: 18px
 }
+
+.footer {
+    height: 200px
+}
+
+.footer p {
+    font-size: 15px
+}
+
+.footer img {
+  color: inherit;
+  margin-left: 30px;
+
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
