@@ -50,6 +50,17 @@
     margin-top: 18px
 }
 
+.container .row {
+    text-align: center;
+    margin-top: 20px;
+    height: 200px;
+}
+
+.container .row img {
+    width: 25%;
+    height: 25%;
+}
+
 .footer {
     height: 200px
 }
