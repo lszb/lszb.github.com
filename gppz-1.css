@@ -218,6 +218,8 @@ body {
       background-position: 0 -240px;   
   }
 
-
+.col .yenav-0 span {
+    background-image: url(../img/gppz.jpg);   
+}
 
 
