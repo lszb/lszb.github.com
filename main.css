@@ -124,6 +124,7 @@ body {
   background-size: cover;
   list-style-type: onoe;
   height: 80px;
+  text-align: left;
 }
 
 .ft img {
@@ -136,18 +137,20 @@ body {
   margin-left: 100px
 }
 
-.footer .container {
+.ft .container {
     overflow: hidden
 }
 
-.footer .container .col {
+.ft .container .col {
     float: left
 }
 
-.footer .container .footer-state {
+.ft .container .footer-state {
     clear: left; 
 }
 
-.footer ul {
+.ft ul{
+  margin-=right: 100px;
   text-align: left;
-}  
+}
+
