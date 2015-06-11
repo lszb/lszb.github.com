@@ -39,13 +39,22 @@ body {
 }
 
 .jumbotron {
-  background-image:url('img/bg.png');
   height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin-bottom: 0;
   padding-right: 0;
   padding-left: 0;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 30px;
+  color: inherit;
+  background-image:url('img/bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  -webkit-transition: 0.6s ease-in-out left;
+     -moz-transition: 0.6s ease-in-out left;
+       -o-transition: 0.6s ease-in-out left;
+          transition: 0.6s ease-in-out left;
 }
 
 .jumbotron a {
@@ -55,7 +64,6 @@ body {
 
 .jumbotron .container {
   position: relative;
-  top:100px;
 }
 
 .jumbotron h1 {
@@ -150,4 +158,4 @@ body {
 
 .footer ul {
   text-align: left;
-}  
+}

@@ -1,0 +1,51 @@
+
+.index_details {
+  position: relative;
+  margin-left: 0px;
+  *zoom: 1;
+}
+
+.index_banner {
+    position: relative
+}
+
+.index_banner img {
+    width: 100%;
+    height: 460px
+}
+
+.index_banner .slogan {
+    color: #FFF;
+    letter-spacing: .1em
+}
+
+.index_banner .slogan-wrapper {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 32%;
+    margin-left: -300px;
+    width: 600px;
+    -moz-transition-property: top;
+    -o-transition-property: top;
+    -webkit-transition-property: top;
+    transition-property: top;
+    -moz-transition-duration: .1s;
+    -o-transition-duration: .1s;
+    -webkit-transition-duration: .1s;
+    transition-duration: .1s;
+    -moz-transition-timing-function: ease-in;
+    -o-transition-timing-function: ease-in;
+    -webkit-transition-timing-function: ease-in;
+    transition-timing-function: ease-in
+}
+
+.index_banner .slogan-wrapper h1 {
+    font-size: 62px;
+    margin-bottom: 0
+}
+
+.index_banner .slogan-wrapper h2 {
+    font-size: 31px;
+    margin-top: 18px
+}
