@@ -52,8 +52,8 @@
 
 .container .row {
     text-align: center;
-    margin-top: 20px;
-    height: 200px;
+    margin-top: 50px;
+    height: 250px;
 }
 
 .container .row img {
@@ -68,11 +68,16 @@
 }
 
 .footer {
-    height: 200px
+    height: 230px;
+    margin-top: 50px;
 }
 
 .footer p {
-    font-size: 15px
+    font-size: 15px;
+}
+
+.footer h3 {
+    padding-top: 35px
 }
 
 .footer img {
