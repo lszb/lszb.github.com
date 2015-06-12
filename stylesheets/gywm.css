@@ -1,0 +1,79 @@
+
+.index_details {
+  position: relative;
+  margin-left: 0px;
+  *zoom: 1;
+}
+
+.index_banner {
+    position: relative
+}
+
+.index_banner img {
+    width: 100%;
+    height: 600px
+}
+
+.index_banner .slogan {
+    color: #FFF;
+    letter-spacing: .1em
+}
+
+.index_banner .slogan-wrapper {
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 32%;
+    margin-left: -400px;
+    width: 800px;
+    -moz-transition-property: top;
+    -o-transition-property: top;
+    -webkit-transition-property: top;
+    transition-property: top;
+    -moz-transition-duration: .1s;
+    -o-transition-duration: .1s;
+    -webkit-transition-duration: .1s;
+    transition-duration: .1s;
+    -moz-transition-timing-function: ease-in;
+    -o-transition-timing-function: ease-in;
+    -webkit-transition-timing-function: ease-in;
+    transition-timing-function: ease-in
+}
+
+.index_banner .slogan-wrapper h1 {
+    font-size: 62px;
+    margin-bottom: 0;
+    height: 100px;
+}
+
+.index_banner .slogan-wrapper p {
+    font-size: 20px;
+    margin-top: 18px
+}
+
+.introduction {
+    margin: 2em 0 5em
+}
+
+.introduction h3 {
+    font-size: 1.2em;
+    margin-bottom: -1em;
+    margin-top: 2.5em
+}
+
+.introduction p {
+    font-size: 1em
+}
+
+.container {
+    width: 960px;
+}
+
+.introdcution .footer {
+    width: 960px
+}
+
+.index_container {
+    width: 1170px;
+    margin-left: 75px;
+}
