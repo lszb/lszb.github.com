@@ -61,6 +61,12 @@
     height: 25%;
 }
 
+.index_partner{
+    background-color: #fee134;
+    height: 300px;
+    text-align: center;
+}
+
 .footer {
     height: 200px
 }
