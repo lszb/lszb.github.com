@@ -56,6 +56,12 @@
     height: 250px;
 }
 
+.container .row p {
+    width: 250px;
+    text-align: center;
+    margin-left: 60px
+}
+
 .container .row img {
     width: 25%;
     height: 25%;
